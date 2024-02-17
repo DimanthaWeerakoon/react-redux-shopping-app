@@ -131,12 +131,3 @@
   font-size: 18px;
   margin-left: 0;
 }
-.ui.grid > .column:not(.row),
-.ui.grid > .row > .column {
-  position: relative;
-  display: inline-block;
-  width: 25%;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  vertical-align: top;
-}
